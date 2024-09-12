@@ -1,0 +1,12 @@
+{  
+    "internale_server_error":"Internal Server Error",
+    "User_name_is_required":"Name is Required",
+    "User_already_created":"User already created",
+    "User_updated_successfully":"User details updated successfully",
+    "success":"success",
+    "Point_is_required":"Point is required",
+    "Point_givenBy_is_required":"Point givenBy is required",
+    "Point_givenTo_is_required":"Point givenTo is required",
+    "Point_is_less_then_100":"Point must be less then 100"
+}
+

@@ -1,0 +1,21 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "bcryptjs": "^2.4.3",
+    "cookie-parser": "^1.4.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.17.1",
+    "log-to-file": "^2.0.2",
+    "mongoose": "^5.9.25",
+    "nodemon": "^2.0.4",
+    "request": "^2.88.2"
+  },
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
